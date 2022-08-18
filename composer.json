@@ -22,12 +22,16 @@
         {
             "type": "vcs",
             "url": "https://github.com/emboldagency/contracts"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/emboldagency/support"
         }
     ],
     "require": {
         "php": "^7.3",
         "laraish/contracts": "dev-master",
-        "laraish/support": "^2.0"
+        "laraish/support": "dev-master"
     },
     "autoload": {
         "psr-4": {
